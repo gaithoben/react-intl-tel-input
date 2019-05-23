@@ -1,5 +1,5 @@
 {
-  "name": "react-intl-tel-input",
+  "name": "react-tel-input",
   "version": "7.0.1",
   "description": "Telephone input component. Rewrite intl-tel-input in React.js.",
   "author": "patw",
@@ -25,6 +25,7 @@
     "react-dom": ">15.4.2 <17.0.0"
   },
   "dependencies": {
+    "@reach/menu-button": "^0.1.17",
     "classnames": "^2.2.5",
     "libphonenumber-js-utils": "^8.10.2",
     "prop-types": "^15.6.1",
